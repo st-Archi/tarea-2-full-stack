@@ -70,4 +70,5 @@ class GestorDeTareas {
 }
 
 // Inicializar la aplicación
+
 const gestor = new GestorDeTareas();
